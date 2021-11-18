@@ -1,0 +1,93 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0e1538;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container a
+{
+    position: relative;
+    width: 260px;
+    height: 320px;
+    display: inline-block;
+    background: #fff;
+    margin: 20px;
+}
+.container #Squid_Game span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/d/dd/Squid_Game.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #vemon2 span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Space_Jam span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Free_Guy span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Shang_Shi span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/fNNZUUYZ3tPUUPlmQMLrxAv5QoV.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Wish_Dragon span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/30U6ge8wGarwkr8FdBwCQ0WwmH7.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container a span
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0e1538;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 1.0em;
+    letter-spacing: 2px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid #040a29;
+    overflow: hidden;
+}
