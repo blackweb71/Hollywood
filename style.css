@@ -36,6 +36,13 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
+.container #NazhaReborn span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZmU0ZTQ1OWYtOTcyMi00OWVmLWJkNmEtY2I5OGEwYTJmM2Q1XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #vemon2 span
 {
     background-image: url(https://image.tmdb.org/t/p/w185/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg);
