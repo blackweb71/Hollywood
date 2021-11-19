@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #RED_NOTICE span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Squid_Game span
 {
     background-image: url(https://upload.wikimedia.org/wikipedia/en/d/dd/Squid_Game.jpg);
