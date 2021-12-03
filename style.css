@@ -29,7 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
-
+.container #Hawkeye span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZGRjYjNmYmQtZTI4NS00ZGQwLTg1YzQtMzJkOWJmYTNkODJmXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #MoneyHeist span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg);
