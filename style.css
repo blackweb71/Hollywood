@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #Lucifer span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Hawkeye span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BZGRjYjNmYmQtZTI4NS00ZGQwLTg1YzQtMzJkOWJmYTNkODJmXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg);
