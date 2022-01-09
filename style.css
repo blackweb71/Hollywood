@@ -36,6 +36,13 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
+.container #MoveToHeaven span
+{
+    background-image: url(https://i.mydramalist.com/Rle36_4f.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Lucifer span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg);
